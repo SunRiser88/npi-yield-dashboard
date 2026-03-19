@@ -1,7 +1,7 @@
 # ⚙️ NPI Yield Learning Dashboard
 ### New Product Introduction · Inline Monitoring · Excursion Detection
 
-A portfolio-grade Streamlit application simulating an **NPI (New Product Introduction) Yield Learning** system for advanced semiconductor packaging — covering yield ramp tracking, inline SPC, excursion alerting, and product configuration.
+A portfolio-grade Render application simulating an **NPI (New Product Introduction) Yield Learning** system for advanced semiconductor packaging — covering yield ramp tracking, inline SPC, excursion alerting, and product configuration.
 
 ---
 
