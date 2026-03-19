@@ -49,12 +49,3 @@ NPI Config → Lot Release → Inline Metrology → Excursion Rules Engine → A
 
 ## 🛠️ Tech Stack
 - **Python** · **Streamlit** · **Plotly** · **pandas** · **numpy**
-
----
-
-## 🔗 Relevance to PTM Yield Systems Engineer Role
-- Simulates NPI configuration and yield ramp workflows
-- Inline defect data pipeline with rule-based excursion detection
-- SPC control charts matching real metrology tool output
-- Multi-product yield monitoring across technology → HVM phases
-- Configuration UI mimicking Klarity/Exensio product onboarding
