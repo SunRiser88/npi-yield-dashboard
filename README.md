@@ -48,4 +48,4 @@ NPI Config → Lot Release → Inline Metrology → Excursion Rules Engine → A
 ---
 
 ## 🛠️ Tech Stack
-- **Python** · **Streamlit** · **Plotly** · **pandas** · **numpy**
+- **Python** · **Render** · **Plotly** · **pandas** · **numpy**
